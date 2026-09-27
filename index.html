@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Opening Contact...</title>
+
+    <script>
+        function openContact() {
+            window.location.replace("contact.vcf");
+        }
+    </script>
+
+    <noscript>
+        <meta http-equiv="refresh" content="0;url=contact.vcf">
+        <style>
+            .js-content { display: none; }
+        </style>
+    </noscript>
+</head>
+
+<body onload="openContact()">
+
+    <div class="js-content">
+        <p>Opening contact...</p>
+        <p><a href="contact.vcf">Open contact manually</a></p>
+    </div>
+
+</body>
+</html>
