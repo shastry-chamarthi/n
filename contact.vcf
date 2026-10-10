@@ -1,9 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:NFC Test Contact
-N:Contact;NFC Test;;;
-TEL;TYPE=CELL:+15065550123
-EMAIL:nfctest@example.com
-ORG:NFC Testing
-NOTE:Dummy contact for iPhone and Android NFC testing
+FN:Satya Moncton
+N:Moncton;Satya;;;
+TEL;TYPE=CELL:+15068691232
+EMAIL:Sathya.chamarthi@gmail.com
+URL:https://www.chamarthi.in
 END:VCARD
